@@ -1,2 +1,4 @@
 # Hackthebox-OSCP-prep
-Writeups of the HTB OSCP like boxes following TJNulls List
+This repository contains the writeups of how I have solved the OSCP like boxes in HTB
+Major shoutouts to Ippsec, TJNull and Rana Khaleel for providing resources to help OSCP aspirants
+Join me on my OSCP journey
